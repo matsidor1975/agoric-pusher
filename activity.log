@@ -1680,3 +1680,4 @@
 2025-10-25 22:53:47 add tests
 2025-10-29 05:50:43 fix docker build
 2025-10-30 23:30:17 update build script
+2025-11-15 11:05:24 fix config bug
